@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Call Me Lulu</h1>
 <div align="center"> <img src="https://github.com/LuluLogics/LuluLogics/blob/main/logics.png"> </div>
 <h3 align="center">A passionate frontend/backend developer.<br><em>In my free time, I enjoy reading tech blogs and books</em></h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lululogics" alt="lululogics" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lululogics&bg_color=000000" alt="lululogics" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -32,7 +32,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lululogics&show_icons=true&locale=en&layout=compact&bg_color=000000" alt="lululogics" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lululogics&show_icons=true&locale=en&bg_color=000000" alt="lululogics" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lululogics&bg_color=000000" alt="lululogics" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lululogics&" alt="lululogics" /></p>
 
 ### 📊 Top Contributions
 ![](https://github-contributor-stats.vercel.app/api?username=lululogics&limit=5&theme=flat&combine_all_yearly_contributions=true)
