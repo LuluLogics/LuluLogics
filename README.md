@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Call Me Lulu</h1> 
-<div align="center"> <imag src="https://github.com/LuluLogics/LuluLogics/blob/main/download.png"> </imag>div>
+<div align="center"> <img src="https://github.com/LuluLogics/LuluLogics/blob/main/download.png"> </div>
 <h3 align="center">A passionate frontend/backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lululogics&label=Profile%20views&color=0e75b6&style=flat" alt="lululogics" /> </p>
