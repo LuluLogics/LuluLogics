@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, Call Me Lulu</h1>
 <div align="center"> <img src="https://github.com/LuluLogics/LuluLogics/blob/main/logics.png"> </div>
 <h3 align="center">A passionate frontend/backend developer.<br><em>In my free time, I enjoy reading tech blogs and books</em></h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lululogics&label=Profile%20views&color=0e75b6&style=flat" alt="lululogics" /> </p>
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lululogics" alt="lululogics" /></a> </p>
 
