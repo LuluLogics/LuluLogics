@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, Call Me Lulu
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&pause=1000&color=044FCB&width=435&lines=Hey+%F0%9F%91%8B;Call+Me+Lulu)](https://git.io/typing-svg)
 </h1>
 
 <!-- Banner -->
