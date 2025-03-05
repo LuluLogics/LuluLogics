@@ -60,7 +60,7 @@
 </p>
 
 <!-- Total Contributions -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lululogics&bg_color=000000" alt="lululogics" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lululogic&bg_color=000000" alt="lululogics" /></p>
 
 ### 📊 Top Contributions
 ![](https://github-contributor-stats.vercel.app/api?username=lululogics&limit=5&theme=flat&combine_all_yearly_contributions=true&bg_color=000000)
