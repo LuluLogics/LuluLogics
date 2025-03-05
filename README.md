@@ -4,7 +4,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lululogics" alt="lululogics" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I’m currently working on an [Agentic Corporate Trader (ACT)] website (https://actproject.netlify.app/)
+- 🔭 I’m currently working on an [Agentic Corporate Trader (ACT)](https://actproject.netlify.app/) website
 
 - 🌱 I’m currently learning **C++, DevSecOps & Cloud Devops**
 
