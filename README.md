@@ -59,11 +59,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=lululogics&show_icons=true&locale=en&bg_color=000000" alt="lululogics_stats" />
 </p>
 
-<!-- Total Contributions 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lululogics&bg_color=000000" alt="lululogics" /></p>
--->
-
-### 📊 Top Contributions
+📊 Top Contributions
 ![](https://github-contributor-stats.vercel.app/api?username=lululogics&limit=5&theme=flat&combine_all_yearly_contributions=true&bg_color=000000)
 
 ### 🔝 My GitHub Contributions
