@@ -56,7 +56,7 @@
 
 <!-- GitHub Stats -->
 <p>&nbsp;
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=lululogics&show_icons=true&locale=en&bg_color=000000" alt="lululogics_stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lululogics&show_icons=true&locale=en&bg_color=000000" alt="lululogics_stats" />
 </p>
 </br>
 
