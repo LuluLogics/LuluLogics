@@ -51,12 +51,12 @@
 
 <!-- GitHub Stats -->
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lululogics&show_icons=true&locale=en&bg_color=000000" alt="lululogics_stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lululogics&show_icons=true&locale=en&bg_color=000000" alt="lululogics_stats" />
 </p>
 
 <!-- Langages Most Used -->
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lululogics&show_icons=true&locale=en&layout=compact&bg_color=000000" alt="lululogics" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=lululogics&show_icons=true&locale=en&layout=compact&bg_color=000000" alt="lululogics" />
 </p>
 
 <!-- Total Contributions 
