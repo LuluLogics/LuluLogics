@@ -63,4 +63,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=lululogics&limit=5&theme=flat&combine_all_yearly_contributions=true&bg_color=000000)
 
 ### 🔝 My GitHub Contributions
-![Snake animation](https://github.com/lululogics/lululogics/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/lululogics/lululogics/blob/output/github-snake-dark.svg)
