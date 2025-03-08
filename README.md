@@ -39,7 +39,7 @@
 
 - 📫 How to reach me **LuluLogicz@gmail.com**
 
-- 📄 Know about more about me [lululogics.com](https://lululogics.com)
+- 📄 Know more about me [lululogics.com](https://lululogics.com)
 
 - ⚡ Fun fact **I think I am funny**
 
