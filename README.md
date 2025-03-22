@@ -33,7 +33,7 @@
 
 - 👯 I’m looking to collaborate on **future projects**
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/LuluLogics?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/LuluLogics?tab=repositories)
 
 - 💬 Ask me about **Anything**
 
